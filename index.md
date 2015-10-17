@@ -32,6 +32,8 @@ Wyznaczenie prędkości schodów ruchomych w Centrum Handlowym Lublin Plaza przy
       - \\( n \\) - liczba kroków potrzebnych do pokonania dystansu równolegle do schodów
       - \\( l\_k \\) - średnia długość kroku
 
+\\( v = \sqrt{ {v\_x}^2+{v\_y}^2 } = \sqrt{ {\frac{l}{t}}^2+{frac{h}{t}}^2 } = \sqrt{ {\frac{n*l\_k}{t}}^2+{\frac{h\_m*\frac{t}{t\_{h\_m}}}{t}}^2 } = \sqrt{ {\frac{n*l\_k}{t}}^2+{\frac{h\_m}{t\_{h\_m}}}^2 } \\)
+
 ### Zebrane dane i obliczenia
 
 - \\( h\_m \\) - według ostatniego pomiaru w ramach badań bilansowych \\( 1.96 m \pm 0.01 \\)
