@@ -11,12 +11,15 @@
   <body>
     <div class="parallax-container">
       <div class="parallax"><img src="//unsplash.it/1920/1080/?image=893"></div>
-      <h1 class="amber-text">\(\pi*schody\)</h1>
-      <div class="chip">Michał Sidor</div> <div class="chip">Karol Karczewski</div>
+      <div class="container">
+        <h1 class="amber-text">\(\pi*schody\)</h1>
+        <div class="chip">Michał Sidor</div> <div class="chip">Karol Karczewski</div>
+      </div>
     </div>
     <div class="container flow-text">
       {{ content }}
     </div>
+    <script>$(".parallax").parallax();</script>
     <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   </body>
 </html>
