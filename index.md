@@ -24,7 +24,7 @@ Wyznaczenie prędkości schodów ruchomych w Centrum Handlowym Lublin Plaza przy
 - \\( v_y \\) - prędkość wertykalna schodów
   - \\( t \\) - całkowity czas zjazdu schodami
   - \\( h \\) - wysokość schodów
-    - \\( t_hm \\) - czas zjazdu schodami o wysokość osoby mierzącej
+    - \\( t_h_m \\) - czas zjazdu schodami o wysokość osoby mierzącej
     - \\( h_m \\) - wysokość osoby mierzącej
 - \\( v_x \\) - prędkość horyzontalna schodów
   - \\( t \\) - całkowity czas zjazdu schodami
