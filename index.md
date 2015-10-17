@@ -43,5 +43,3 @@ Wyznaczenie prędkości schodów ruchomych w Centrum Handlowym Lublin Plaza przy
 - \\( l = n*l\_k = 5.25 m \pm 0.67 \\)
 - \\( \overline{v\_x} = \frac{l}{t} = \frac{5.25 m \pm 0.67}{20.34 s \pm 0.94} = 0.26 \frac{m}{s} \pm 0.09 \\)
 - \\( \overline{v} = \sqrt{ {v\_x}^2+{v\_y}^2 } = \sqrt{ {0.26 \frac{m}{s} \pm 0.09}^2+{0.24 \frac{m}{s} \pm 0.15}^2 } = 0.35 \frac{m}{s} \pm 0.33 \\)
-
-# WYNIK: \\( 0.35 \frac{m}{s} \pm 0.33 \\)
