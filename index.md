@@ -35,4 +35,4 @@ Wyznaczenie prędkości schodów ruchomych w Centrum Handlowym Lublin Plaza przy
 ### Zebrane dane
 
 - \\( h_m \\) - według ostatniego pomiaru w ramach badań bilansowych \\(1.96 m \pm 0.01\\)
-- \\( t_(hm) \\) - 4 pomiary z dokładnością \\(\pm 0.5 s \\) wyniosły odpowiednio \\(7.47 s, 9.08 s, 9.29 s, 7.23 s\\) \\(\sigma_(t_(hm))=0.92\\)
+- \\( t_{hm} \\) - 4 pomiary z dokładnością \\(\pm 0.5 s \\) wyniosły odpowiednio \\(7.47 s, 9.08 s, 9.29 s, 7.23 s\\) \\(\sigma_{t_{hm}=0.92\\)
