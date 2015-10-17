@@ -20,7 +20,7 @@ Wyznaczenie prędkości schodów ruchomych w Centrum Handlowym Lublin Plaza przy
 - mózg
 
 ### Potrzebne dane i dane potrzebne do obliczenia tych danych itd.
-- \\( v = \sqrt{{v\_x}^2+{v\_y}^2} \\)
+- \\( v = \sqrt{ {v\_x}^2+{v\_y}^2 } \\)
   - \\( v\_y \\) - prędkość wertykalna schodów
     - \\( t \\) - całkowity czas zjazdu schodami
     - \\( h \\) - wysokość schodów
